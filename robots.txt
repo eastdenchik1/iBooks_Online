@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /login
+Disallow: /page=
+Disallow: /admin-dashboard
+Disallow: /admin-edit
+Disallow: /books
+Disallow: /users
+Disallow: /adding-book
+Disallow: /adding-user
+Allow: /book=
+Sitemap: https://library.sviridovden.ru/Sitemap.xml
